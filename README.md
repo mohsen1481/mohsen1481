@@ -36,7 +36,6 @@ AI content creator & developer. I run **MohTips** — daily AI news in Persian �
 ## 📫 Connect with me
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mohtipss)
-[![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UC58InhthVoAuyxxK34WSo9w?style=for-the-badge)](https://youtube.com/@mohtipss)
 [![Website](https://img.shields.io/badge/mohtips.ir-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](https://mohtips.ir)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@mohtips.ir)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohtipss)
